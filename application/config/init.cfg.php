@@ -6,10 +6,6 @@
  * Time: 22:39
  */
 
-define('USER_DEFAULT_FILE', 'user_default');
-define('USER_ROLE_FILE', 'user_role.php');
-define('USER_LIST_FILE', 'user_list.php');
-define('USER_ADD_FILE', 'user_add.php');
 define("MIN_LENGTH_NAME",2);
 define("MAX_LENGTH_NAME",15);
 define("MIN_LENGTH_MESSAGE",2);
